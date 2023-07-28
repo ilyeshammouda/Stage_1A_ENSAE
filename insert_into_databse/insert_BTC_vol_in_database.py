@@ -10,7 +10,7 @@ specifying the information that will be needed to connect to the data base
 '''
 
 
-SERVER = 'Put here your Server adress'
+SERVER = 'Put here your Server adress from Azure'
 DATABASE = 'Put here your database name'
 USERNAME = 'Put here your username'
 PASSWORD = 'Put here the passeword to connect to the Azure database'
